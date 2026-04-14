@@ -92,7 +92,7 @@ class BankAccount:
 
 ---
 
-### 📁 `main.py`
+### 📁 `test.py`
 
 ```python
 from phase1_basic.bank_account import BankAccount
