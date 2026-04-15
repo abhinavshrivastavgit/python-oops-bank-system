@@ -126,8 +126,8 @@ This project demonstrates:
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [(Add link)](https://www.linkedin.com/in/abhinavshrivastav-no1/)
-- GitHub: [(Add link)](https://github.com/abhinavshrivastavgit)
+- [Linkedin](https://www.linkedin.com/in/abhinavshrivastav-no1/)
+- [GitHub](https://github.com/abhinavshrivastavgit)
 
 ---
 
