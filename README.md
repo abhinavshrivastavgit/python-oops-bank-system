@@ -106,7 +106,7 @@ PYTHON-OOPS-BANK-SYSTEM/
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/PYTHON-OOPS-BANK-SYSTEM.git
+git clone https://github.com/abhinavshrivastavgit/python-oops-bank-system
 cd PYTHON-OOPS-BANK-SYSTEM/final_project_cli
 python main.py
 ```
